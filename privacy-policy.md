@@ -30,6 +30,10 @@ You can use the paid versions of 鬥獸棋 Classic if you prefer an ad-free vers
 
 ## Contact
 
-For privacy questions or support, contact:
+For privacy questions or support, visit:
 
 `https://williamlock.github.io/Animal-Chess-Site/support.html`
+
+GitHub support:
+
+`https://github.com/WilliamLock/Animal-Chess/issues`

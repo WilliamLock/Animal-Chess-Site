@@ -4,9 +4,13 @@ Thank you for playing 鬥獸棋 Classic.
 
 ## Contact
 
-For support, feedback, or App Store review follow-up, contact:
+For support, feedback, or App Store review follow-up, use the Animal Chess GitHub support page:
 
-`https://williamlock.github.io/Animal-Chess-Site/support.html`
+`https://github.com/WilliamLock/Animal-Chess/issues`
+
+Project repository:
+
+`https://github.com/WilliamLock/Animal-Chess`
 
 ## What To Include
 
