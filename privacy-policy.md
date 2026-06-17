@@ -34,6 +34,6 @@ For privacy questions or support, visit:
 
 `https://williamlock.github.io/Animal-Chess-Site/support.html`
 
-GitHub support:
+Email:
 
-`https://github.com/WilliamLock/Animal-Chess/issues`
+`wlock88@icloud.com`
