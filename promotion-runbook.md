@@ -15,6 +15,9 @@ https://williamlock.github.io/Animal-Chess-Site/launch-copy.md
 Share kit:
 https://williamlock.github.io/Animal-Chess-Site/share-kit.html
 
+Product Hunt draft:
+https://williamlock.github.io/Animal-Chess-Site/product-hunt-draft.md
+
 Rednote post:
 https://williamlock.github.io/Animal-Chess-Site/rednote.html
 
@@ -51,6 +54,9 @@ App Store 搜索 鬥獸棋 Classic。认准可爱动物棋子和斗兽棋游戏�
 Do not use QR codes. Do not add phone numbers.
 
 ## Product Hunt
+
+Use:
+https://williamlock.github.io/Animal-Chess-Site/product-hunt-draft.md
 
 Do not launch on the same day as Turbo SSHuttle or Mahjong Sudoku Classic.
 
