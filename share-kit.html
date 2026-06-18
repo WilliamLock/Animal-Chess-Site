@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>鬥獸棋 Classic Share Kit</title>
+  <meta name="description" content="Links and copy for sharing 鬥獸棋 Classic, a cute version of classic Jungle Chess.">
+  <style>
+    :root {
+      --ink: #213c35;
+      --muted: #5d746b;
+      --paper: #fff8e8;
+      --leaf: #dff4e4;
+      --rose: #e45b78;
+      --line: rgb(33 60 53 / 0.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background: linear-gradient(145deg, var(--paper), var(--leaf));
+    }
+    main {
+      width: min(880px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+    }
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2.4rem, 8vw, 4.8rem);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+    h2 { margin: 34px 0 12px; letter-spacing: 0; }
+    p {
+      margin: 0 0 14px;
+      color: var(--muted);
+      font-size: 1.06rem;
+      line-height: 1.65;
+    }
+    a {
+      color: var(--rose);
+      font-weight: 800;
+      text-decoration: none;
+    }
+    .links {
+      display: grid;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .links a,
+    .box {
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: rgb(255 255 255 / 0.7);
+    }
+    .box {
+      white-space: pre-wrap;
+      line-height: 1.68;
+    }
+    .asset-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .asset-grid img {
+      width: 100%;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      box-shadow: 0 14px 34px rgb(44 74 67 / 0.15);
+      background: white;
+    }
+    @media (max-width: 680px) {
+      .asset-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>鬥獸棋 Classic Share Kit</h1>
+    <p>A cute version of classic Jungle Chess / Dou Shou Qi, built from childhood nostalgia and designed to feel approachable for children and families.</p>
+
+    <h2>Primary Links</h2>
+    <div class="links">
+      <a href="https://apps.apple.com/us/app/%E9%AC%A5%E7%8D%B8%E6%A3%8B-classic/id6775230075">App Store</a>
+      <a href="https://williamlock.github.io/Animal-Chess-Site/">Product home</a>
+      <a href="https://williamlock.github.io/Animal-Chess-Site/rednote.html">Rednote post</a>
+      <a href="https://williamlock.github.io/Animal-Chess-Site/mobile-post.html">Mobile posting helper</a>
+      <a href="https://williamlock.github.io/Animal-Chess-Site/launch-copy.md">Launch copy</a>
+      <a href="https://williamlock.github.io/Animal-Chess-Site/promotion-runbook.md">Promotion runbook</a>
+    </div>
+
+    <h2>Short English Post</h2>
+    <div class="box">I made 鬥獸棋 Classic because I played Dou Shou Qi / Jungle Chess when I was young, and wanted to bring back that childhood feeling in a friendlier way.
+
+Many versions online feel more like traditional chess apps. I wanted to make a cuter version that children can enjoy, while still keeping the classic animal ranks, rivers, traps, and dens.
+
+App Store:
+https://apps.apple.com/us/app/%E9%AC%A5%E7%8D%B8%E6%A3%8B-classic/id6775230075</div>
+
+    <h2>Share Images</h2>
+    <div class="asset-grid">
+      <a href="assets/animal-chess-rednote-card.png">
+        <img src="assets/animal-chess-rednote-card.png" alt="鬥獸棋 Classic Rednote share card">
+      </a>
+      <a href="assets/iphone-gameplay-clean.png">
+        <img src="assets/iphone-gameplay-clean.png" alt="鬥獸棋 Classic iPhone gameplay">
+      </a>
+    </div>
+  </main>
+</body>
+</html>
