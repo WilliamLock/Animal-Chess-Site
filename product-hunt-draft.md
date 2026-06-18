@@ -16,7 +16,10 @@ Founder story:
 https://williamlock.github.io/Animal-Chess-Site/launch-copy.md
 
 Current status:
-Draft copy prepared only. Product Hunt launch has not been created.
+Product Hunt launch created and scheduled for June 20, 2026 at 12:01 AM PDT.
+
+Product Hunt launch:
+https://www.producthunt.com/products/classic?launch=classic
 
 ## Short Description
 
@@ -66,6 +69,7 @@ https://williamlock.github.io/Animal-Chess-Site/assets/ipad-gameplay-clean.png
 
 ## Suggested Launch Timing
 
-Use this after Turbo SSHuttle and Mahjong Sudoku Classic have their own separate Product Hunt windows.
+Scheduled after Turbo SSHuttle, Bug Splash AR, and Mahjong Sudoku Classic have their own launch windows.
 
-Do not create or launch this Product Hunt page yet.
+Launch date:
+June 20, 2026 at 12:01 AM PDT
